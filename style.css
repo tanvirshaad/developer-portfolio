@@ -8,6 +8,9 @@ h1 {
 h2 {
   font-size: 40px;
 }
+p {
+  color: #696969;
+}
 .orange-color {
   color: orange;
 }
@@ -52,6 +55,7 @@ h2 {
   margin-right: 5%;
   box-shadow: 10px 10px 40px gray;
   padding-left: 20px;
+  padding-right: 20px;
   border-radius: 10px;
 }
 #full-web {
